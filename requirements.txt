@@ -1,0 +1,9 @@
+torch==2.6.0
+torchvision==0.21.0
+scikit-image==0.25.1
+SQLAlchemy==2.0.38
+alembic==1.14.1
+psycopg2-binary==2.9.10
+streamlit==1.42.0
+matplotlib==3.10.0
+python-dotenv==1.0.1
