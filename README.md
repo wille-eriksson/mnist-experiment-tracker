@@ -28,7 +28,7 @@ Uses PostgreSQL (via docker-compose) for storage and retrieval of experiment dat
 
 ### 1️. Create a Virtual Environment
 
-This project requires Python **3.13**. To set up a virtual environment under `.venv`, run:
+The setup of this project has only been verified with Python **3.13**. To set up a virtual environment under `.venv`, run:
 
 ```sh
 python -m venv .venv
@@ -128,7 +128,7 @@ This will launch a web-based dashboard for visualization and interaction.
 
 ## Notes
 
-- Ensure **Python 3.13** is installed before proceeding.
+- Preferably ensure that **Python 3.13** is installed before proceeding.
 - Install **Docker** if you haven't already.
 - If you encounter permission errors with PowerShell, try running:
   ```sh
